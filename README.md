@@ -1,7 +1,7 @@
 # Training
 
 
-hi macha en madtha edeya .
+hi macha en madtha edeya
 
 <<<<<<< HEAD
 Change directrory CD means
